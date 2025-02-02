@@ -1,0 +1,6 @@
+Source_ID,Name,Location,Capacity,Status
+1,"Borehole A",Marsabit,5000,Functional
+2,"River B",Isiolo,10000,Seasonal
+3,"Well C",Garissa,3000,Dry
+4,"Borehole D",Wajir,7000,Functional
+5,"Lake E",Turkana,15000,Functional
