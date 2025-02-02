@@ -1,6 +1,6 @@
 Season_ID,Source_ID,Month,Water_Level
-1,1,January,High
-2,1,February,Medium
-3,2,March,Low
-4,3,April,High
-5,4,May,Medium
+1,1,January,10000
+2,1,February,5000
+3,2,March,3000
+4,3,April,8000
+5,4,May,6000
